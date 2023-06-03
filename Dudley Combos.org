@@ -103,7 +103,9 @@ Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72
   
 - cr.hk, walk in ex DP, hp DP [needs to be somewhat close]
   
-  damage (too lazy to test with SA3), 31/64 stun, -2 meter, knockdown - Note: Great stun, can be used to setup 50/50 stun setups. It can be pretty hard to land both hits of the hp DP, but even with a single hit it gives very decent stun (28/64) and damage. Execution wise the tell I use is the shadows of Ken and Dudley just touching to know when to ex DP. If you want to get more consistent 2 hits on hp DP you want to go even further in the shadow, but you should avoid getting 2 hits from the ex DP or that ends the juggle. Using f+hk kara for the ex dp could help for getting the 2 hits, but it is difficult.
+  57 damage (too lazy to test with SA3), 31/64 stun, -2 meter, knockdown
+
+  Note: Great stun, can be used to setup 50/50 stun setups. It can be pretty hard to land both hits of the hp DP, but even with a single hit it gives very decent stun (28/64) and damage. Execution wise the tell I use is the shadows of Ken and Dudley just touching to know when to ex DP. If you want to get more consistent 2 hits on hp DP you want to go even further in the shadow, but you should avoid getting 2 hits from the ex DP or that ends the juggle. Using f+hk kara for the ex dp could help for getting the 2 hits, but it is difficult.
 
   
 - st.hk xx ex mgb, lp mgb, lk ssb [works from any range]
