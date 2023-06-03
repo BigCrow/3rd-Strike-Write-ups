@@ -4,22 +4,6 @@ Dudley Combos for Each Character:
 Each character has 160 health, but takes different amount of damage.
 Stun damage is the same across all characters, but some have different stun values. Meter gain is the same, 80 meter is sa3, sa1 is 96, 40 is EX
 
-* Table Of Content :TOC_2_gh:QUOTE:
-#+BEGIN_QUOTE
-- [[#shotos-twins-urien-hugo][Shotos, Twins, Urien, Hugo]]
-  - [[#midscreen][Midscreen:]]
-  - [[#corner-all-of-the-combos-below-give-rose-okizeme][Corner: (all of the combos below give rose okizeme)]]
-- [[#chun-li-all-of-the-shoto-midscreen-combos-work-except-that-sthk-xx-exhp-mgb-only-works-on-standing-chun][Chun-Li: (all of the shoto midscreen combos work, except that st.hk xx ex(hp) mgb only works on standing chun)]]
-  - [[#midscreen-1][Midscreen:]]
-  - [[#corner][Corner:]]
-- [[#makoto-all-of-the-shoto-midscreen-combos-work][Makoto: (all of the shoto midscreen combos work)]]
-  - [[#midscreen-2][Midscreen:]]
-  - [[#corner-1][Corner:]]
-- [[#dudley-all-of-the-shoto-midscreen-combos-work-except-stkh-xx-ex-mgb-walk-in-fmk-hp-dp][Dudley: (all of the shoto midscreen combos work, except st.kh xx ex mgb, walk in f+mk hp dp)]]
-  - [[#midscreen-3][Midscreen:]]
-  - [[#corner-2][Corner:]]
-#+END_QUOTE
-
 * Shotos, Twins, Urien, Hugo
 
 (Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72)
