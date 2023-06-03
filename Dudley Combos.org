@@ -4,7 +4,8 @@ Dudley Combos for Each Character:
 Each character has 160 health, but takes different amount of damage.
 Stun damage is the same across all characters, but some have different stun values. Meter gain is the same, 80 meter is sa3, sa1 is 96, 40 is EX
 
-* Table Of Content :TOC:
+* Table Of Content :TOC:QUOTE:
+#+BEGIN_QUOTE
 - [[#shotos-twins-urien-hugo][Shotos, Twins, Urien, Hugo]]
   - [[#midscreen][Midscreen:]]
   - [[#corner-all-of-the-combos-below-give-rose-okizeme][Corner: (all of the combos below give rose okizeme)]]
@@ -17,6 +18,7 @@ Stun damage is the same across all characters, but some have different stun valu
 - [[#dudley-all-of-the-shoto-midscreen-combos-work-except-stkh-xx-ex-mgb-walk-in-fmk-hp-dp][Dudley: (all of the shoto midscreen combos work, except st.kh xx ex mgb, walk in f+mk hp dp)]]
   - [[#midscreen-3][Midscreen:]]
   - [[#corner-2][Corner:]]
+#+END_QUOTE
 
 * Shotos, Twins, Urien, Hugo
 
