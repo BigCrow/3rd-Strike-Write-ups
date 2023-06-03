@@ -18,6 +18,9 @@ Stun damage is the same across all characters, but some have different stun valu
 - [[#dudley][Dudley:]]
   - [[#midscreen-dudley][Midscreen Dudley]]
   - [[#corner-dudley][Corner Dudley]]
+- [[#to-do][To Do]]
+  - [[#done][DONE]]
+  - [[#todo][TODO]]
 #+END_QUOTE
 
 * Shotos, Twins, Urien, Hugo
@@ -255,3 +258,25 @@ Note: Another standard combo. It is not too difficult to execute. Deals more dam
 cr.hk, lp mgb, microwalk ex dp, st.hk
 ?? damage, ??/64 stun, ?? meter, air reset (leads to light oki)
 Note: Really difficult, almost got it, but whiffed the st.hk at the end. For the microwald of the ex dp you need to do this: f, qcf & hold the last forward during the recovery of the lp mgb, so that you are microwalking out of it & then you just hit 2xp for the ex dp after the microwalk. If you do it too early then the input buffer won't give you the ex dp at the end. If you do it too late you will have a few frames you are not walking after the lp mgb. Pretty tight, but that part can be done. I don't think the last hit is tight as well - I think I was just unluckly & missed it.
+
+* To Do
+** DONE
+*** Initial Combos For STUH
+*** Initial Combos For Chun-li
+*** Initial Combos For Makoto
+** TODO
+*** Initial Combos For Dudley
+*** Initial Combos For Oro
+*** Initial Combos For Elena
+*** Initial Combos For Ibuki
+*** Initial Combos For Necro
+*** Initial Combos For Alex
+*** Initial Combos For Remy
+*** Initial Combos For Q
+*** Initial Combos For Twelve
+*** Fix damage, stun & meter values for partial whiff on the ex mgb on some crouching characters (like twins)
+*** Add special combos (combos that occur from special situations)
+*** Finish difficult combos that are yet to be logged
+*** Create a small referance guide of difficulty progression of combos for begginers to use
+*** Complete referance for rose setups, different kinds of oki & safe jumps possible from different combos
+
