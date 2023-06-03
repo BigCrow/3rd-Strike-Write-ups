@@ -275,4 +275,5 @@ Note: Really difficult, almost got it, but whiffed the st.hk at the end. For the
 - [ ] Finish difficult combos that are yet to be logged
 - [ ] Create a small referance guide of difficulty progression of combos for begginers to use
 - [ ] Complete referance for rose setups, different kinds of oki & safe jumps possible from different combos
+- [ ] Update the wiki with the information of this document
 
