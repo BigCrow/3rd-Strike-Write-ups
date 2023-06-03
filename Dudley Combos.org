@@ -19,9 +19,6 @@ Stun damage is the same across all characters, but some have different stun valu
   - [[#midscreen-dudley][Midscreen Dudley]]
   - [[#corner-dudley][Corner Dudley]]
 - [[#todo][Todo]]
-  - [[#done][Done]]
-  - [[#current][Current]]
-  - [[#todo-1][Todo]]
 #+END_QUOTE
 
 * Shotos, Twins, Urien, Hugo
@@ -261,24 +258,21 @@ cr.hk, lp mgb, microwalk ex dp, st.hk
 Note: Really difficult, almost got it, but whiffed the st.hk at the end. For the microwald of the ex dp you need to do this: f, qcf & hold the last forward during the recovery of the lp mgb, so that you are microwalking out of it & then you just hit 2xp for the ex dp after the microwalk. If you do it too early then the input buffer won't give you the ex dp at the end. If you do it too late you will have a few frames you are not walking after the lp mgb. Pretty tight, but that part can be done. I don't think the last hit is tight as well - I think I was just unluckly & missed it.
 
 * Todo
-** Done
-*** DONE Initial Combos For STUH
-*** DONE Initial Combos For Chun-li
-*** DONE Initial Combos For Makoto
-** Current
-*** Initial Combos For Dudley
-** Todo
-*** TODO Initial Combos For Oro
-*** TODO Initial Combos For Elena
-*** TODO Initial Combos For Ibuki
-*** TODO Initial Combos For Necro
-*** TODO Initial Combos For Alex
-*** TODO Initial Combos For Remy
-*** TODO Initial Combos For Q
-*** TODO Initial Combos For Twelve
-*** TODO Fix damage, stun & meter values for partial whiff on the ex mgb on some crouching characters (like twins)
-*** TODO Add special combos (combos that occur from special situations)
-*** TODO Finish difficult combos that are yet to be logged
-*** TODO Create a small referance guide of difficulty progression of combos for begginers to use
-*** TODO Complete referance for rose setups, different kinds of oki & safe jumps possible from different combos
+- [X] Initial Combos For STUH
+- [X] Initial Combos For Chun-li
+- [X] Initial Combos For Makoto
+- [-] Initial Combos For Dudley
+- [ ] Initial Combos For Oro
+- [ ] Initial Combos For Elena
+- [ ] Initial Combos For Ibuki
+- [ ] Initial Combos For Necro
+- [ ] Initial Combos For Alex
+- [ ] Initial Combos For Remy
+- [ ] Initial Combos For Q
+- [ ] Initial Combos For Twelve
+- [ ] Fix damage, stun & meter values for partial whiff on the ex mgb on some crouching characters (like twins)
+- [ ] Add special combos (combos that occur from special situations)
+- [ ] Finish difficult combos that are yet to be logged
+- [ ] Create a small referance guide of difficulty progression of combos for begginers to use
+- [ ] Complete referance for rose setups, different kinds of oki & safe jumps possible from different combos
 
