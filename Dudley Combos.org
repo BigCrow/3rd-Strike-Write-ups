@@ -30,6 +30,7 @@ Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72
 - 32 damage, 14/64 stun, 21 meter, -3
 - Note: The most damaging TC combo to learn for complete beginniers. Otherwise used just for referance of the damage difference.
   
+  
 - st.hk xx HP DP [Doesn't work if st.hk is not used very close]
 - 39 damage (+18 damage with SA3), 30/64 stun, 39 meter, knockdown (leads to okizeme if close enough to the corner)
 - Note: Base jump in and punishment combo giving very good meter gain and stun. Can lead to 50/50 in the corner for maximum stun, if used from jump in, via the sweep double DP combo and the meaty UOH st.hk xx HP DP combo. If st.hp is used as a jump in it will always have enough stun for that 50/50, if st.hk is used, if Ken doesn't quickstand they will be at exactly 63/64 stun after eating the sweep double DP combo.
