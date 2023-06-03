@@ -20,6 +20,7 @@ Stun damage is the same across all characters, but some have different stun valu
   - [[#corner-dudley][Corner Dudley]]
 - [[#to-do][To Do]]
   - [[#done][DONE]]
+  - [[#current][CURRENT]]
   - [[#todo][TODO]]
 #+END_QUOTE
 
@@ -264,8 +265,9 @@ Note: Really difficult, almost got it, but whiffed the st.hk at the end. For the
 *** Initial Combos For STUH
 *** Initial Combos For Chun-li
 *** Initial Combos For Makoto
-** TODO
+** CURRENT
 *** Initial Combos For Dudley
+** TODO
 *** Initial Combos For Oro
 *** Initial Combos For Elena
 *** Initial Combos For Ibuki
