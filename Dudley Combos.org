@@ -9,13 +9,13 @@ Stun damage is the same across all characters, but some have different stun valu
 - [[#shotos-twins-urien-hugo][Shotos, Twins, Urien, Hugo]]
   - [[#midscreen-stuh][Midscreen STUH]]
   - [[#corner-stuh][Corner STUH]]
-- [[#chun-li-all-of-the-shoto-midscreen-combos-work-except-that-sthk-xx-exhp-mgb-only-works-on-standing-chun][Chun-Li: (all of the shoto midscreen combos work, except that st.hk xx ex(hp) mgb only works on standing chun)]]
+- [[#chun-li][Chun-Li:]]
   - [[#midscreen-chun][Midscreen Chun]]
   - [[#corner-chun][Corner Chun]]
-- [[#makoto-all-of-the-shoto-midscreen-combos-work][Makoto: (all of the shoto midscreen combos work)]]
+- [[#makoto][Makoto:]]
   - [[#midscreen-makoto][Midscreen Makoto]]
   - [[#corner-makoto][Corner Makoto]]
-- [[#dudley-all-of-the-shoto-midscreen-combos-work-except-stkh-xx-ex-mgb-walk-in-fmk-hp-dp][Dudley: (all of the shoto midscreen combos work, except st.kh xx ex mgb, walk in f+mk hp dp)]]
+- [[#dudley][Dudley:]]
   - [[#midscreen-dudley][Midscreen Dudley]]
   - [[#corner-dudley][Corner Dudley]]
 #+END_QUOTE
@@ -82,8 +82,9 @@ st.hk xx ex mgb, lp mgb, walk in f+mk xx hp dp [works from any range]
 63 damage, 24/64 stun, -2 meter, knockdown
 Notes: Slightly less damage, with a bit more meter, same stun. Same stuff like above.
 
-* Chun-Li: (all of the shoto midscreen combos work, except that st.hk xx ex(hp) mgb only works on standing chun)
+* Chun-Li:
 
+All of the shoto midscreen combos work, except that st.hk xx ex(hp) mgb only works on standing chun.
 Stun: 64
 ** Midscreen Chun
 
@@ -137,8 +138,9 @@ st.hk xx ex mgb, cr.hkx3, lp mgb, lk ssb [any range]
 64 damage, 18/64 stun, 19 meter, knockdown
 Note: Slightly better damage for meter
 
-* Makoto: (all of the shoto midscreen combos work)
+* Makoto:
 
+All of the shoto midscreen combos work.
 Stun: 64
 ** Midscreen Makoto
 
@@ -207,10 +209,9 @@ st.hk xx ex mgb, cr.hk x2, lp mgb, cr.hk, dash, st.mp xx hp dp [close]
 57 damage, 14/64 stun, 20 meter, knockdown (leads to oki)
 Note: Super hard not good, kinda fancy though, but I'm getting only a single hit on the hp dp. Maybe it is better with mp dp or if you can actually get both hits - NEEDS TESTING!
 
+* Dudley:
 
-
-* Dudley: (all of the shoto midscreen combos work, except st.kh xx ex mgb, walk in f+mk hp dp)
-
+All of the shoto midscreen combos work, except st.kh xx ex mgb, walk in f+mk hp dp.
 Stun: 72
 ** Midscreen Dudley
 
