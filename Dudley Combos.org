@@ -22,7 +22,7 @@ Stun damage is the same across all characters, but some have different stun valu
 
 * Shotos, Twins, Urien, Hugo
 
-(Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72)
+Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72
 ** Midscreen STUH
 
 Target combo: f+mk, mk, hp [Doesn't work if f+mk is used from very far] 32 damage, 14/64 stun, 21 meter, -3 Notes: The most damaging TC combo to learn for complete beginniers. Otherwise used just for referance of the damage difference.
