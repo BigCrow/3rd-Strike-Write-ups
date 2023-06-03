@@ -382,4 +382,5 @@ Stun: 72
 - [ ] Create a small referance guide of difficulty progression of combos for begginers to use
 - [ ] Complete referance for rose setups, different kinds of oki & safe jumps possible from different combos
 - [ ] Update the wiki with the information of this document
+- [ ] Add video demonstrations for all combos
 
