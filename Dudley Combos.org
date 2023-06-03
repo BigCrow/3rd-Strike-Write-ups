@@ -4,26 +4,26 @@ Dudley Combos for Each Character:
 Each character has 160 health, but takes different amount of damage.
 Stun damage is the same across all characters, but some have different stun values. Meter gain is the same, 80 meter is sa3, sa1 is 96, 40 is EX
 
-* Table Of Content :TOC:QUOTE:
+* Table Of Content :TOC_2_gh:QUOTE:
 #+BEGIN_QUOTE
 - [[#shotos-twins-urien-hugo][Shotos, Twins, Urien, Hugo]]
-  - [[#midscreen][Midscreen:]]
-  - [[#corner-all-of-the-combos-below-give-rose-okizeme][Corner: (all of the combos below give rose okizeme)]]
+  - [[#midscreen-stuh][Midscreen STUH]]
+  - [[#corner-stuh][Corner STUH]]
 - [[#chun-li-all-of-the-shoto-midscreen-combos-work-except-that-sthk-xx-exhp-mgb-only-works-on-standing-chun][Chun-Li: (all of the shoto midscreen combos work, except that st.hk xx ex(hp) mgb only works on standing chun)]]
-  - [[#midscreen-1][Midscreen:]]
-  - [[#corner][Corner:]]
+  - [[#midscreen-chun][Midscreen Chun]]
+  - [[#corner-chun][Corner Chun]]
 - [[#makoto-all-of-the-shoto-midscreen-combos-work][Makoto: (all of the shoto midscreen combos work)]]
-  - [[#midscreen-2][Midscreen:]]
-  - [[#corner-1][Corner:]]
+  - [[#midscreen-makoto][Midscreen Makoto]]
+  - [[#corner-makoto][Corner Makoto]]
 - [[#dudley-all-of-the-shoto-midscreen-combos-work-except-stkh-xx-ex-mgb-walk-in-fmk-hp-dp][Dudley: (all of the shoto midscreen combos work, except st.kh xx ex mgb, walk in f+mk hp dp)]]
-  - [[#midscreen-3][Midscreen:]]
-  - [[#corner-2][Corner:]]
+  - [[#midscreen-dudley][Midscreen Dudley]]
+  - [[#corner-dudley][Corner Dudley]]
 #+END_QUOTE
 
 * Shotos, Twins, Urien, Hugo
 
 (Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72)
-** Midscreen:
+** Midscreen STUH
 
 Target combo: f+mk, mk, hp [Doesn't work if f+mk is used from very far] 32 damage, 14/64 stun, 21 meter, -3 Notes: The most damaging TC combo to learn for complete beginniers. Otherwise used just for referance of the damage difference.
 st.hk xx HP DP [Doesn't work if st.hk is not used very close]
@@ -60,7 +60,8 @@ Note: The best option for damage, very difficult to do.
 Target combo: st.lp > st.mp > st.mk > xx ex mgb into whatever [works only on standing, the first 3 hits should stun]
 Note: Needs at least 55 stun to work. Basically can be used as a hit confirm into a stun juggle combo to squeeze out more damage. Super situation because it only works on standing and close to stun
 
-** Corner: (all of the combos below give rose okizeme)
+** Corner STUH
+(all of the combos below give rose okizeme)
 
 cr.hk, lp mgb, lp ssb [works at decent ranges]
 45 damage (+18 damage with SA3), 17/64 stun, 38 meter, knockdown
@@ -84,7 +85,7 @@ Notes: Slightly less damage, with a bit more meter, same stun. Same stuff like a
 * Chun-Li: (all of the shoto midscreen combos work, except that st.hk xx ex(hp) mgb only works on standing chun)
 
 Stun: 64
-** Midscreen:
+** Midscreen Chun
 
 cr.hk, walk in cr.hk, mp duck uppercut [should be close enough]
 49 damage, 10/64 stun, 55 meter, knockdown (leads into oki)
@@ -106,7 +107,7 @@ st.hk xx ex mgb, cr.hk, mk duck uppercut [any range]
 59 damage, 20/64, +1 meter, knockdown (leads to oki)
 Note: best option for meter. Consistent oki.
 
-** Corner:
+** Corner Chun
 
 cr.hkx4, lp mgb, lk ssb [close range]
 70 damage, 15/64 stun, 86 meter, knockdown
@@ -139,7 +140,7 @@ Note: Slightly better damage for meter
 * Makoto: (all of the shoto midscreen combos work)
 
 Stun: 64
-** Midscreen:
+** Midscreen Makoto
 
 cr.hk, lp mgb, cr.hk, mk duck upper [very close]
 55 damage, 10/64 stun, 57 meter, knockdown (leads into oki)
@@ -164,7 +165,7 @@ lp mgb, SA1 or SA3 [very close]
 39 damage with SA1 (30 damage with SA3), 10/64 stun (5 stun with SA3), 20 meter - super meter, knockdown (leads to oki)
 Note: Easy, no idea why you would use it - the scaling on the super is ass.
 
-** Corner:
+** Corner Makoto
 
 Target Combo: lp mp mk xx mp mgb, SA1 or SA3 [close]
 50 damage with SA1 (43 damage with SA3), 12/64 stun (10 stun with SA3), 31 meter - super meter, knockdown (leads to oki)
@@ -211,7 +212,7 @@ Note: Super hard not good, kinda fancy though, but I'm getting only a single hit
 * Dudley: (all of the shoto midscreen combos work, except st.kh xx ex mgb, walk in f+mk hp dp)
 
 Stun: 72
-** Midscreen:
+** Midscreen Dudley
 
 cr.hk, walk in cr.hk, mk duck uppercut [point blank + walk in]
 45 damage, 10/64 stun, 55 meter, knockdown (leads into oki)
@@ -232,7 +233,7 @@ Note: Hard, but not too much - you just need to hit the microwalk timing. Hittin
 st.hk xx ex mgb, lp mgb, walk in cr.hk, mk duck upper
 don't know if this works, but it looks like it might. I'm using the same trick as against the makoto with hitting the lp mgb with a microwalk on a dudley close to the ground. It seems the cr.hk could reach in time, but I couldn't get it.
 
-** Corner:
+** Corner Dudley
 
 cr.hk x5, mk duck uppercut [close]
 65 damage, 9/64 stun, 99 meter, knockdown (leads to oki)
