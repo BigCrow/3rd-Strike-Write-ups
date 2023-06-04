@@ -404,7 +404,7 @@ Stun: 72
   
   65 damage, 20/64 stun, 5 meter, knockdown (leads to oki)
 
-  Note: Alternative to the above combo. I find it easier since you don't need to hit the f+mk close to the ground - you have enough walk time to get pretty close while Dudley is still juggled high. More damage for less meter with the same stun. You can also swap each lp mgb for a cr.hk & the cr.hk for lp mgb to get 62 damage & 11 meter instead.
+  Note: Alternative to the above combo. I find it easier since you don't need to hit the f+mk close to the ground - you have enough walk time to get pretty close while Dudley is still juggled high. More damage for less meter with the same stun. You can also swap each lp mgb for a cr.hk & the cr.hk for lp mgb to get 62 damage & 11 meter instead. Using mp dp gives you 2 more damage & meter, but it is way more difficulty - it might only be possible from lp mgb, you might not be able to connect the mp dp if you are doing the cr.hk version.
 
   Video: https://youtu.be/7PGnmi4uI2w
   
