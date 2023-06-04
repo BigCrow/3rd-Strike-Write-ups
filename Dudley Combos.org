@@ -57,7 +57,7 @@ Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72
   
   36 damage (+18 damage with SA3, +22 damage if done with straight instead of the uppercut), 11/64, 38 meter, knockdown (leads to okizeme even if they quickstand)
   
-  Note: Very standard conversion off - cr.hk midscreen, either from oki or neutral. Leads to oki using fast buttons if they quick roll. You can use duck straight instead for slightly more damage with SA3, but it is slightly harder as now you can't just spam MK for the duck uppercut and instead you need to time it. Duck straight also have stronger corner carry, but it doesn't lead to Oki.
+  Note: Very standard conversion off cr.hk midscreen, either from oki or neutral. Leads to oki using fast buttons if they quick roll. You can use duck straight instead for slightly more damage with SA3, but it is slightly harder as now you can't just spam MK for the duck uppercut and instead you need to time it. Duck straight also have stronger corner carry, but it doesn't lead to Oki.
 
 - cr.hk, walk in f+mk xx hp dp [works at very close range]
   
@@ -150,7 +150,7 @@ Stun: 64
   
   Note: the best option for damage, albeing you get less stun. Consistent oki.
   
-- st.hk xx ex mgb, - cr.hk, mk duck uppercut [any range]
+- st.hk xx ex mgb, cr.hk, mk duck uppercut [any range]
   
   59 damage, 20/64, +1 meter, knockdown (leads to oki)
   
@@ -188,14 +188,14 @@ Stun: 64
   
   Note: Best combo for damage, but it is really difficult. You can use HP dp as an ender to make it way more consistent, it hits only once and deals slightly less damage (72) and stun(18), and gains slightly less meter(87).
   
-- st.hk xx ex mgb, - cr.hkx4, walk in hp dp [any range]
+- st.hk xx ex mgb, cr.hkx4, walk in hp dp [any range]
   
   62 damage ,18/64 stun, 23 meter, knockdown
   
   Note: Standard
 
   
-- st.hk xx ex mgb, - cr.hkx3, lp mgb, lk ssb [any range]
+- st.hk xx ex mgb, cr.hkx3, lp mgb, lk ssb [any range]
   
   64 damage, 18/64 stun, 19 meter, knockdown
   
@@ -228,11 +228,11 @@ Stun: 64
   
   Note: the best option for damage, albeing you get less stun. Consistent oki.
 
-- st.hk xx ex mgb, lp mgb, - cr.hk, mk duck uppercut [any range?]
+- st.hk xx ex mgb, lp mgb, cr.hk, mk duck uppercut [any range?]
   
   63 damage, 17/64 stun, 3 meter, knockdown (leads to oki)
   
-  Note: Insanely hard. You need to hit the lp mgb close to the ground while also microwalking before it & insta or tiny microwalk - cr.hk. Not worth it in my opinion.
+  Note: Insanely hard. You need to hit the lp mgb close to the ground while also microwalking before it & insta or tiny microwalk cr.hk. Not worth it in my opinion.
   
 - lp mgb, SA1 or SA3 [very close]
   
@@ -264,7 +264,7 @@ Stun: 64
   
   63 damage, 11/64 stun, 89 meter, knockdown (leads to oki)
   
-  Note: Alternative between the combos above. If done with 4 - cr.hk & 2 hit hp dp deals 2 less damage & gains 2 less meter. If done with mp dp, is the best version. 65 damage, 12 stun & 100 meter gain - making this an amazing combo.
+  Note: Alternative between the combos above. If done with 4 cr.hk & 2 hit hp dp deals 2 less damage & gains 2 less meter. If done with mp dp, is the best version. 65 damage, 12 stun & 100 meter gain - making this an amazing combo.
   
 - cr.hkx4, walk in f+mk xx MP dp [close range]
   
@@ -278,25 +278,25 @@ Stun: 64
   
   Note: Best stun for way worse meter & ok damage. It is not too difficult.
   
-- st.hk xx ex mgb, lp mgb, - cr.hk, lp mgb, cr.hk, walk in hp dp [close]
+- st.hk xx ex mgb, lp mgb, cr.hk, lp mgb, cr.hk, walk in hp dp [close]
   
   66 damage, 16/64 stun, 11 meter, knockdown (leads to oki)
   
   Note: standard, not too difficult loop combo.
 
-- st.hk xx ex mgb, - cr.hk x4, mk duck uppercut [close]
+- st.hk xx ex mgb, cr.hk x4, mk duck uppercut [close]
   
   61 damage, 14/64 stun, 23 meter, knockdown (leads to oki)
   
   Note: Outdone by the combo below & is not really easier.
   
-- st.hk xx ex mgb, - cr.hk x4, walk in hp dp [close]
+- st.hk xx ex mgb, cr.hk x4, walk in hp dp [close]
   
   61 damage, 16/64 stun, 23 meter, knockdown (leads to oki)
   
   Note: standard, for more meter, slightly harder.
   
-- st.hk xx ex mgb, - cr.hk x2, lp mgb, cr.hk, dash, st.mp xx hp dp [close]
+- st.hk xx ex mgb, cr.hk x2, lp mgb, cr.hk, dash, st.mp xx hp dp [close]
   
   57 damage, 14/64 stun, 20 meter, knockdown (leads to oki)
   
@@ -326,15 +326,15 @@ Stun: 72
   
   Note: Pretty easy to execute, so you can consider it standard.
   
-- st.hk xx ex mgb, walk in - cr.hk, mk duck upper [any range]
+- st.hk xx ex mgb, walk in cr.hk, mk duck upper [any range]
   
   57 damage, 20/64 stun, 1 meter, knockdown (leads into oki)
   
   Note: Hard, but not too much - you just need to hit the microwalk timing. Hitting the down+hk in the same frame to not lose any frames to microwalking, but it is not required - the timing is not super tight. Not really worth it over the standard, just some more meter, but you also lose out on some damage.
   
-- st.hk xx ex mgb, lp mgb, walk in - cr.hk, mk duck upper
+- st.hk xx ex mgb, lp mgb, walk in cr.hk, mk duck upper
   
-  Note: don't know if this works, but it looks like it might. I'm using the same trick as against the makoto with hitting the lp mgb with a microwalk on a dudley close to the ground. It seems the - cr.hk could reach in time, but I couldn't get it.
+  Note: don't know if this works, but it looks like it might. I'm using the same trick as against the makoto with hitting the lp mgb with a microwalk on a dudley close to the ground. It seems the cr.hk could reach in time, but I couldn't get it.
   
 ** Corner Dudley
 
@@ -366,13 +366,53 @@ Stun: 72
   
   ?? damage, ??/64 stun, ?? meter, air reset (leads to light oki)
 
-  Note: Really difficult, almost got it, but whiffed the st.hk at the end. For the microwald of the ex dp you need to do this: f, qcf & hold the last forward during the recovery of the lp mgb, so that you are microwalking out of it & then you just hit 2xp for the ex dp after the microwalk. If you do it too early then the input buffer won't give you the ex dp at the end. If you do it too late you will have a few frames you are not walking after the lp mgb. Pretty tight, but that part can be done. I don't think the last hit is tight as well - I think I was just unluckly & missed it.
+  Note: Really difficult, almost got it, but whiffed the st.hk at the end. For the microwalk of the ex dp you need to do this: f, qcf & hold the last forward during the recovery of the lp mgb, so that you are microwalking out of it & then you just hit 2xp for the ex dp after the microwalk. If you do it too early then the input buffer won't give you the ex dp at the end. If you do it too late you will have a few frames you are not walking after the lp mgb. Pretty tight, but that part can be done. I don't think the last hit is tight as well - I think I was just unluckly & missed it.
+  
+- st.hk xx ex mgb, cr.hk x4, mk duck uppercut [any range]
+  
+  61 damage, 16/64 stun, 23 meter, knockdown (leads to oki)
+
+  Note: Standard easy loop.
+
+  Video: https://youtu.be/n18K7YhmYDU
+  
+- st.hk xx ex mgb, lp mgb, cr.hk, lp mgb, cr.hk, mk duck uppercut [any range]
+  
+  67 damage, 16/64 stun, 11 meter, knockdown (leads to oki)
+
+  Note: Feels easier than the other standard loop, but still similar difficulty. Gives 6 more damage for 12 less meter over the other standard.
+
+  Video: https://youtu.be/B4YP8E2Z5po
+  
+- st.hk xx ex mgb, cr.hk, lp mgb, cr.hk, lp mgb, lp ssb [any range]
+  
+  67 damage, 18/64 stun, 13 meter, knockdown (leads to oki)
+
+  Note: Alternative to the mk duck uppercut ender. Straight up better, but some might find the other ender easier.
+
+  Video: https://youtu.be/qNjRMj2-I0I
+  
+- st.hk xx ex mgb, cr.hk x3, walk in f+mk xx hp dp [any range]
+  
+  60 damage, 20/64 stun, 17 meter, knockdown (leads to oki)
+
+  Note: Slightly harder than standard for more stun at the cost of some damage. You need to hit the f+mk close to the ground to connect.
+
+  Video: https://youtu.be/_5BdzsP6JpM
+  
+- st.hk xx ex mgb, lp mgb, cr.hk, lp mgb, walk in f+mk xx hp dp [any range]
+  
+  65 damage, 20/64 stun, 5 meter, knockdown (leads to oki)
+
+  Note: Alternative to the above combo. I find it easier since you don't need to hit the f+mk close to the ground - you have enough walk time to get pretty close while Dudley is still juggled high. More damage for less meter with the same stun. You can also swap each lp mgb for a cr.hk & the cr.hk for lp mgb to get 62 damage & 11 meter instead.
+
+  Video: https://youtu.be/7PGnmi4uI2w
   
 * Todo
 - [X] Initial Combos For STUH
 - [X] Initial Combos For Chun-li
 - [X] Initial Combos For Makoto
-- [-] Initial Combos For Dudley
+- [X] Initial Combos For Dudley
 - [ ] Initial Combos For Oro
 - [ ] Initial Combos For Elena
 - [ ] Initial Combos For Ibuki
@@ -389,5 +429,6 @@ Stun: 72
 - [ ] Complete referance for rose setups, different kinds of oki & safe jumps possible from different combos
 - [ ] Update the wiki with the information of this document
 - [ ] Add video demonstrations for all combos
+- [ ] Add additional stun values (most combos tell you the stun at the last hit, instead I need to add max stun gotten during the combo & the stun after quickroll or no quickroll)
 - [ ] Add stun combos
 
