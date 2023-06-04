@@ -431,4 +431,6 @@ Stun: 72
 - [ ] Add video demonstrations for all combos
 - [ ] Add additional stun values (most combos tell you the stun at the last hit, instead I need to add max stun gotten during the combo & the stun after quickroll or no quickroll)
 - [ ] Add stun combos
+- [ ] Add SA end cancel damage changes
+- [ ] Add SA3 juggle combos
 
