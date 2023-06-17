@@ -21,6 +21,9 @@ Stun damage is the same across all characters, but some have different stun valu
 - [[#dudley][Dudley]]
   - [[#midscreen-dudley][Midscreen Dudley]]
   - [[#corner-dudley][Corner Dudley]]
+- [[#oro][Oro]]
+  - [[#midscreen-oro][Midscreen Oro]]
+  - [[#corner-oro][Corner Oro]]
 - [[#todo][Todo]]
 #+END_QUOTE
 
@@ -407,6 +410,93 @@ Stun: 72
   Note: Alternative to the above combo. I find it easier since you don't need to hit the f+mk close to the ground - you have enough walk time to get pretty close while Dudley is still juggled high. More damage for less meter with the same stun. You can also swap each lp mgb for a cr.hk & the cr.hk for lp mgb to get 62 damage & 11 meter instead. Using mp dp gives you 2 more damage & meter, but it is way more difficulty - it might only be possible from lp mgb, you might not be able to connect the mp dp if you are doing the cr.hk version.
 
   Video: https://youtu.be/7PGnmi4uI2w
+  
+* Oro
+All of the shoto midscreen combos work, except that st.hk xx any mgb does not connect on crouching oro.
+Stun: 72
+** Midscreen Oro
+
+- cr.hk, walk in cr.hk, mk duck upper [point blank]
+
+  49 damage, 10/64 stun, 55 meter, knockdown (leads into oki)
+  
+  Note: Seems like you need to walk forward before the first cr.hk to have enough distance to hit the second one. Outside of that not difficult.
+  
+  Video: https://youtu.be/2GAehEx65I4
+
+- st.hk xx ex mgb, walk in cr.hk, mk duck upper [any range]
+
+  59 damage, 22/64 stun, 2 meter, knockdown (leads into oki)
+  
+  Note: Standard, you need to learn the microwalk timing, but it is not too bad.
+  
+  Video: https://youtu.be/gVclX6WM5Ag
+  
+- st.hk xx ex mgb, lp mgb, mk duck upper [any range]
+
+  64 damage, 22/64 stun, -5 meter, knockdown (leads into oki)
+  
+  Note: Standard, not too difficult - more damage than the combo from above, but less meter.
+  
+  Video: https://youtu.be/sodffb3zuKk
+  
+- st.hk xx ex mgb, lp mgb, walk in cr.hk, mk duck upper
+  
+  Note: don't know if this works, but it looks like it might. I'm using the same trick as against the makoto with hitting the lp mgb with a microwalk on a oro close to the ground. It seems the cr.hk could reach in time, but I couldn't get it.
+  
+** Corner Oro
+
+- cr.hk x5, mk duck uppercut [close]
+  
+  67 damage, 10/64 stun, 99 meter, knockdown (leads to oki)
+  
+  Note: Standard, not too difficult loop combo.
+
+  Video: https://youtu.be/eCickz8Vy-o
+  
+- cr.hk, cr.hk, lp mgb, cr.hk, lp mgb, mk duck uppercut [close]
+  
+  66 damage, 10/64 stun, 75 meter, knockdown (leads to oki)
+  
+  Note: Hard. You need 2 cr.hk at the start to get more juggle height to be able to combo to lp mgb. You also need to hit the second cr.hk early for more heigh &/or time the lp mgb link tight as well. Couldn't get it with an lp ssb finisher. The combo is not better than the standard anyway.
+
+  Video: https://youtu.be/qAds-gy1hsE
+  
+- cr.hk x4, dash (walk?) in f+mk xx mp dp [close]
+  
+  74 damage, 21/64 stun, 94 meter, knockdown (leads to oki)
+  
+  Note: Very difficult. It seems you can only get it with a dash in, but maybe it is possible with a walk in. You need to hit the cr.hks early to get more heigh so that you have more time to link the f+mk after the dash. If you hit oro too low with the f+mk it will reset & you won't be able to hit with mp dp. hp dp would whiff the second hit reducing the stun by 11, as well as the damage by 10 - not worth it, use a standard combo instead of hp finisher. The mp dp finisher seems to be your best option from cr.hk, the standard combo just stlightly outdo it in meter.
+
+  Video: https://youtu.be/9tVTX3FD7MM
+  
+- cr.hk, ex dp, f+mk xx hp dp [close]
+
+  Note: Not sure if it works. Tried with & without kara dp.
+
+- st.hk xx ex mgb, cr.hk x4, mk duck uppercut [any range]
+  
+  63 damage, 18/64 stun, 28 meter, knockdown (leads to oki)
+
+  Note: Standard easy loop.
+
+  Video: https://youtu.be/XSCRLnCnNrQ
+  
+- st.hk xx ex mgb, lp mgb, cr.hk, lp mgb, cr.hk, mk duck uppercut [any range]
+  
+  68 damage, 18/64 stun, 15 meter, knockdown (leads to oki)
+
+  Note: Better than the standard for damage - slightly harder. You need to hit the cr.hk early to get enough juggle distance for the lp mgb, &/or time the lp mgb better.
+
+  Video: https://youtu.be/shW4h5X5eFk
+  
+- st.hk xx ex mgb, lp mgb, cr.hk, lp mgb, walk in f+mk xx mp dp [any range]
+  
+  67 damage, 24/64 stun, 7 meter, knockdown (leads to oki)
+
+  Note: Standard combo for stun. Doing 3x cr.hk & then dash in rather than a walk in f+mk gives 23 meter, 63 damage & same stun, so better combo for meter at the expense for damage. I wasn't able to get one with a single lp mgb regardless of position.
+
+  Video: https://youtu.be/kHXT1acHj1E
   
 * Todo
 - [X] Initial Combos For STUH
