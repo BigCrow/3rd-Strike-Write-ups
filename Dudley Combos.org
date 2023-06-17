@@ -414,6 +414,12 @@ Stun: 72
 * Oro
 All of the shoto midscreen combos work, except that st.hk xx any mgb does not connect on crouching oro.
 Stun: 72
+
+Oro's cr.hk loops have wide timing so they are not hard to get. On the other hand lp mgb will oft hit with the first few hits rather than just the last one, so you either need a lot of vertical hight or a tight timing. This means that for cr.hk to lp mgb link you need 2 things:
+- cr.hk has to hit a juggled Oro for more height (like from ex mgb, another cr.hk or anything else)
+- the cr.hk has to hit early/high (you have a wide timing for the cr.hk, but the earlier you hit it the higher the juggle)
+f+mk into dp combos are tough on oro & tend to miss a lot & you can't make them easier by using hp dp (it is not worth it at all).
+
 ** Midscreen Oro
 
 - cr.hk, walk in cr.hk, mk duck upper [point blank]
