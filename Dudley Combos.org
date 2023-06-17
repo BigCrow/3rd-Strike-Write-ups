@@ -509,7 +509,7 @@ f+mk into dp combos are tough on oro & tend to miss a lot & you can't make them 
 - [X] Initial Combos For Chun-li
 - [X] Initial Combos For Makoto
 - [X] Initial Combos For Dudley
-- [ ] Initial Combos For Oro
+- [X] Initial Combos For Oro
 - [ ] Initial Combos For Elena
 - [ ] Initial Combos For Ibuki
 - [ ] Initial Combos For Necro
