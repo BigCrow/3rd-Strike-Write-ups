@@ -1,42 +1,21 @@
-#+title:Dudley 3s Combos
+# Dudley 3s Combos
 
-* Introduction
+## Introduction
 
 Dudley Combos for Each Character. Focusing on juggle combos, rather than the universal super cancel combos - the only exception for this are character with specifics super cancels (like Makoto from lp mgb).
 Each character has 160 health, but takes different amount of damage.
 Stun damage is the same across all characters, but some have different stun values. Meter gain is the same, 80 meter is sa3, sa1 is 96, 40 is EX
 
-* Table Of Content :TOC_2_gh:QUOTE:
-#+BEGIN_QUOTE
-- [[#introduction][Introduction]]
-- [[#shotos-twins-urien-hugo][Shotos, Twins, Urien, Hugo]]
-  - [[#midscreen-stuh][Midscreen STUH]]
-  - [[#corner-stuh][Corner STUH]]
-- [[#chun-li][Chun-Li]]
-  - [[#midscreen-chun][Midscreen Chun]]
-  - [[#corner-chun][Corner Chun]]
-- [[#makoto][Makoto]]
-  - [[#midscreen-makoto][Midscreen Makoto]]
-  - [[#corner-makoto][Corner Makoto]]
-- [[#dudley][Dudley]]
-  - [[#midscreen-dudley][Midscreen Dudley]]
-  - [[#corner-dudley][Corner Dudley]]
-- [[#oro][Oro]]
-  - [[#midscreen-oro][Midscreen Oro]]
-  - [[#corner-oro][Corner Oro]]
-- [[#todo][Todo]]
-#+END_QUOTE
-
-* Shotos, Twins, Urien, Hugo
+## Shotos, Twins, Urien, Hugo
 
 Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72
-** Midscreen STUH
+### Midscreen STUH
 
 - Target combo: f+mk, mk, hp [Doesn't work if f+mk is used from very far]
   
   32 damage, 14/64 stun, 21 meter, -3
   
-  Note: The most damaging TC combo to learn for complete beginniers. Otherwise used just for referance of the damage difference.
+  Note: The most damaging TC combo to learn for complete beginners. Otherwise used just for reference of the damage difference.
   
 - st.hk xx HP DP [Doesn't work if st.hk is not used very close]
   
@@ -89,7 +68,7 @@ Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72
 - Target combo: st.lp > st.mp > st.mk > xx ex mgb into whatever [works only on standing, the first 3 hits should stun]
   Note: Needs at least 55 stun to work. Basically can be used as a hit confirm into a stun juggle combo to squeeze out more damage. Super situation because it only works on standing and close to stun
 
-** Corner STUH
+### Corner STUH
 (all of the combos below give rose okizeme)
 
 - cr.hk, lp mgb, lp ssb [works at decent ranges]
@@ -123,11 +102,11 @@ Stun: Gouki 56; Sean, Ken, Ryu, Twins, Urien 64; Hugo 72
   
   Note: Slightly less damage, with a bit more meter, same stun. Same stuff like above.
 
-* Chun-Li
+## Chun-Li
 
 All of the shoto midscreen combos work, except that - st.hk xx ex(hp) mgb only works on standing chun.
 Stun: 64
-** Midscreen Chun
+### Midscreen Chun
 
 - cr.hk, walk in cr.hk, mp duck uppercut [should be close enough]
   
@@ -159,7 +138,7 @@ Stun: 64
   
   Note: best option for meter. Consistent oki.
 
-** Corner Chun
+### Corner Chun
 
 - cr.hkx4, lp mgb, lk ssb [close range]
   
@@ -204,11 +183,11 @@ Stun: 64
   
   Note: Slightly better damage for meter
 
-* Makoto
+## Makoto
 
 All of the shoto midscreen combos work.
 Stun: 64
-** Midscreen Makoto
+### Midscreen Makoto
 
 - cr.hk, lp mgb, cr.hk, mk duck upper [very close]
   
@@ -243,7 +222,7 @@ Stun: 64
   
   Note: Easy, no idea why you would use it - the scaling on the super is ass.
   
-** Corner Makoto
+### Corner Makoto
 
 - Target Combo: lp mp mk xx mp mgb, SA1 or SA3 [close]
   
@@ -305,11 +284,11 @@ Stun: 64
   
   Note: Super hard not good, kinda fancy though, but I'm getting only a single hit on the hp dp. Maybe it is better with mp dp or if you can actually get both hits - NEEDS TESTING!
 
-* Dudley
+## Dudley
 
 All of the shoto midscreen combos work, except st.kh xx ex mgb, walk in f+mk hp dp.
 Stun: 72
-** Midscreen Dudley
+### Midscreen Dudley
 
 - cr.hk, walk in cr.hk, mk duck uppercut [point blank + walk in]
   
@@ -339,7 +318,7 @@ Stun: 72
   
   Note: don't know if this works, but it looks like it might. I'm using the same trick as against the makoto with hitting the lp mgb with a microwalk on a dudley close to the ground. It seems the cr.hk could reach in time, but I couldn't get it.
   
-** Corner Dudley
+### Corner Dudley
 
 - cr.hk x5, mk duck uppercut [close]
   
@@ -411,7 +390,7 @@ Stun: 72
 
   Video: https://youtu.be/7PGnmi4uI2w
   
-* Oro
+## Oro
 All of the shoto midscreen combos work, except that st.hk xx any mgb does not connect on crouching oro.
 Stun: 72
 
@@ -420,7 +399,7 @@ Oro's cr.hk loops have wide timing so they are not hard to get. On the other han
 - the cr.hk has to hit early/high (you have a wide timing for the cr.hk, but the earlier you hit it the higher the juggle)
 f+mk into dp combos are tough on oro & tend to miss a lot & you can't make them easier by using hp dp (it is not worth it at all).
 
-** Midscreen Oro
+### Midscreen Oro
 
 - cr.hk, walk in cr.hk, mk duck upper [point blank]
 
@@ -450,7 +429,7 @@ f+mk into dp combos are tough on oro & tend to miss a lot & you can't make them 
   
   Note: don't know if this works, but it looks like it might. I'm using the same trick as against the makoto with hitting the lp mgb with a microwalk on a oro close to the ground. It seems the cr.hk could reach in time, but I couldn't get it.
   
-** Corner Oro
+### Corner Oro
 
 - cr.hk x5, mk duck uppercut [close]
   
@@ -504,7 +483,7 @@ f+mk into dp combos are tough on oro & tend to miss a lot & you can't make them 
 
   Video: https://youtu.be/kHXT1acHj1E
   
-* Todo
+## Todo
 - [X] Initial Combos For STUH
 - [X] Initial Combos For Chun-li
 - [X] Initial Combos For Makoto
